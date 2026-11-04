@@ -64,6 +64,10 @@ Etapas adicionais sem Action de terceiros: instalação das dependências, execu
 
 > Cole aqui os prints depois de rodar a pipeline.
 
-- [ ] Print da execução completa (todos os jobs verdes)
-- [ ] Print da seção *Artifacts*
-- [ ] Print da aba *Security → Code scanning*
+- [X] Print da execução completa (todos os jobs verdes)
+<img width="1920" height="851" alt="image" src="https://github.com/user-attachments/assets/4debe8de-f001-41e0-a270-9af3567eaa3b" />
+- [X] Print da seção *Artifacts*
+<img width="1519" height="283" alt="image" src="https://github.com/user-attachments/assets/0ab77eca-be0a-4d46-931f-ac4003f2c4bd" />
+- [X] Print da aba *Security → Code scanning*
+<img width="1550" height="753" alt="image" src="https://github.com/user-attachments/assets/f9e02f56-b7d8-4a42-99e9-ee7211cc8b4e" />
+
